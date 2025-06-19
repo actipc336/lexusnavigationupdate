@@ -6,9 +6,9 @@ How to Update Lexus GPS Navigation System: A Complete Guide
    :caption: Contents:
 
 
-.. image:: update.gif
-   :alt: My Project Logo
-   :width: 200px
+.. image:: https://mercedesbenzgpsupdate.readthedocs.io/en/latest/_images/update.gif
+   :alt: lexus gps update
+   :width: 400px
    :align: center
    :target: https://navisolve.com/
 
